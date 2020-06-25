@@ -216,10 +216,10 @@
     "ruleSearchName": "@JSon:$.book_name",
     "ruleSearchNoteUrl": "@JSon:$.book_id@js:\"http://api.17k.com/v2/book/\"+result+\"/merge?iltc=1&app_key=4037465544&access_token=&time=0&_versions=971&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0\"",
     "ruleSearchUrl": "http://api.ali.17k.com/v2/book/search?app_key=4037465544&sort_type=0&page=1&class=0&key=searchKey&_versions=971&client_type=1&_filter_data=1&channel=2&merchant=17KH5&_access_version=2&cps=0",
-    "serialNumber": 0,
+    "serialNumber": 5,
     "weight": 0
-},
- {
+  },
+  {
     "bookSourceGroup": "",
     "bookSourceName": "6.纵横中文网(正版)",
     "bookSourceType": "",
@@ -255,12 +255,12 @@
     "ruleSearchCoverUrl": "tag.img@src",
     "ruleSearchIntroduce": "",
     "ruleSearchKind": "class.bookilnk@tag.a.1@text|class.rank_d_b_cate@tag.a.1@text|class.bookinfo@tag.a.1@text#.*\\[|\\]",
-    "ruleSearchLastChapter": "class.bookupdate@tag.a.0@text|class.rank_d_b_last@text#最新章节：",
+    "ruleSearchLastChapter": "class.bookupdate@tag.a.0@text|class.rank_d_b_last@tag.a@textNodes",
     "ruleSearchList": "class.search-result-list|class.bookbox|class.rank_d_list",
     "ruleSearchName": "class.tit@tag.a.0@text|class.bookname@tag.a.0@html|class.rank_d_b_name.0@html",
     "ruleSearchNoteUrl": "tag.a@href|class.tit@tag.a.0@href|",
     "ruleSearchUrl": "http://search.zongheng.com/search/book?keyword=searchKey&pageNo=1",
-    "serialNumber": 0,
+    "serialNumber": 6,
     "weight": 0
- }
+  }
 ]
