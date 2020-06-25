@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="immersionStatusBar" value="true" />
+    <boolean name="auto_refresh" value="true" />
+    <int name="textDrawableIndex" value="0" />
+    <float name="lineMultiplier" value="1.8" />
+    <boolean name="showAllFind" value="true" />
+    <int name="tipPaddingTop" value="15" />
+    <int name="paddingRight" value="25" />
+    <int name="colorPrimaryNight" value="-12434878" />
+    <boolean name="darkStatusIcon0" value="true" />
+    <int name="colorAccent" value="-12434878" />
+    <boolean name="nightTheme" value="false" />
+    <int name="paddingBottom" value="10" />
+    <string name="downloadPath">/storage/emulated/0/Android/data/com.gedoor.monkeybook/cache</string>
+    <string name="backupPath">/storage/emulated/0/YueDu</string>
+    <float name="paragraphSize" value="2.0" />
+    <int name="threads_num" value="6" />
+    <int name="paddingTop" value="10" />
+    <string name="launcher_icon">ic_launcher_round</string>
+    <string name="fontPath">/storage/emulated/0/Fonts/思源宋体-半粗体.otf</string>
+    <int name="webPort" value="1122" />
+    <boolean name="upChangeSourceLastChapter" value="false" />
+    <int name="textDrawableIndexNight" value="4" />
+    <int name="colorPrimary" value="-657931" />
+    <int name="colorAccentNight" value="-657931" />
+    <string name="bookshelf_px">0</string>
+    <boolean name="navigationBarColorChange" value="false" />
+    <int name="colorBackground" value="-657931" />
+    <int name="bgCustom0" value="1" />
+    <boolean name="behaviorMain" value="true" />
+    <int name="colorBackgroundNight" value="-12434878" />
+    <boolean name="E-InkMode" value="false" />
+    <boolean name="autoDownload" value="false" />
+    <int name="bgColor0" value="-1" />
+    <int name="navBarColorInt" value="2" />
+    <boolean name="process_text" value="true" />
+    <int name="versionCode" value="15898" />
+    <boolean name="findTypeIsFlexBox" value="true" />
+    <int name="bookshelfLayout" value="1" />
+    <int name="textColor0" value="-16777216" />
+    <long name="lastBackup" value="1593089748887" />
+    <boolean name="lightFollowSys" value="true" />
+    <boolean name="defaultToRead" value="false" />
+    <boolean name="replaceEnableDefault" value="true" />
+    <int name="paddingLeft" value="25" />
+</map>
