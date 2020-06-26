@@ -2,7 +2,7 @@
 本来是不想搞这个的，但是大多数书源库里的书源大多没人维护，并且质量比较差，所以在这里慢慢增加书源并维护。
 
 # 开源的阅读软件
-##https://github.com/gedoor/MyBookshelf
+## https://github.com/gedoor/MyBookshelf
 
 # 在线书源库
 ## http://ku.iszoc.com
