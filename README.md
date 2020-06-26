@@ -8,7 +8,7 @@
 ## http://ku.iszoc.com
 ## http://ku.mumuceo.com
 
-文件介绍
-书源：myBookSource.json 当前30个书源，维护。
-配置文件：config.xml 一些配置。
-字体：思源宋体-半粗体.otf 这个字体好看。
+# 文件介绍
+- 书源：myBookSource.json 当前30个书源，维护。
+- 配置文件：config.xml 一些配置。
+- 字体：思源宋体-半粗体.otf 这个字体好看。
