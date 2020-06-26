@@ -4,6 +4,9 @@
 # 开源的阅读软件
 ## https://github.com/gedoor/MyBookshelf
 
+# 软件下载地址
+## https://www.coolapk.com/apk/com.gedoor.monkeybook
+
 # 在线书源库
 ## http://ku.iszoc.com
 ## http://ku.mumuceo.com
