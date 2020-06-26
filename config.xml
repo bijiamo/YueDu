@@ -9,6 +9,7 @@
     <int name="paddingRight" value="25" />
     <int name="colorPrimaryNight" value="-12434878" />
     <boolean name="darkStatusIcon0" value="true" />
+    <long name="DonateHb" value="1593194130309" />
     <int name="colorAccent" value="-12434878" />
     <boolean name="nightTheme" value="false" />
     <int name="paddingBottom" value="10" />
@@ -27,6 +28,7 @@
     <string name="bookshelf_px">0</string>
     <boolean name="navigationBarColorChange" value="false" />
     <int name="colorBackground" value="-657931" />
+    <boolean name="canSelectText" value="true" />
     <int name="bgCustom0" value="1" />
     <boolean name="behaviorMain" value="true" />
     <int name="colorBackgroundNight" value="-12434878" />
@@ -39,7 +41,7 @@
     <boolean name="findTypeIsFlexBox" value="true" />
     <int name="bookshelfLayout" value="1" />
     <int name="textColor0" value="-16777216" />
-    <long name="lastBackup" value="1593089748887" />
+    <long name="lastBackup" value="1593194657718" />
     <boolean name="lightFollowSys" value="true" />
     <boolean name="defaultToRead" value="false" />
     <boolean name="replaceEnableDefault" value="true" />
